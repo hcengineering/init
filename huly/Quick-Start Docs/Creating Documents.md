@@ -24,13 +24,12 @@ Alternatively, hover over the a teamspace name or any other document and click t
 
 Documents support markdown formatting. There are a few ways to access formatting options for your text:
 
-Type markdown syntax directly into your document.
+* Type markdown syntax directly into your document.
+* Use the floating toolbar that appears when text is selected on the page.
 
-Use the floating toolbar that appears when text is selected on the page.
+Using markdown formatting, you can add headers, text emphasis, links, blockquotes, numbered and bulleted lists, and code blocks to your document.
 
-Formatting options include headers, text emphasis, links, blockquotes, numbered and bulleted lists, and code blocks.
-
-Images, tables and separator lines are also available by hovering over text and clicking the `+` icon that appears on the left side.
+You can also add elements such as images, action items, drawing boards and more by typing `/` or clicking the `+` icon at the left side of the document.
 
 # **Enrich your documents with @mentions, Action Items and live collaboration**
 
@@ -49,4 +48,4 @@ Create an Action Item by typing `[]` then `space` on a new line. Alternatively, 
 
 # **Real-time collaboration**
 
-Team members can collaborate on documents at the same time! Multiple people can edit and add to documents simultaneously. Check out our [video](https://www.youtube.com/watch?v=cspdJ5TjFNQ) to learn more about collaborative editing in Huly documents!
+Team members can collaborate on documents at the same time! Multiple people can edit and add to documents simultaneously. You can also have discussions at the bottom of the page, or highlight text anywhere to add inline comments. Check out our [video](https://www.youtube.com/watch?v=cspdJ5TjFNQ) to learn more about collaborative editing in Huly documents!

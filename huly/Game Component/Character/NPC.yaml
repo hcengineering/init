@@ -1,0 +1,5 @@
+class: card:class:MasterTag
+title: NPC
+properties:
+  - label: alignment
+    # type: Select: NPC Alignment (enum)

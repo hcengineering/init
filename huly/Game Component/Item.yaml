@@ -1,0 +1,7 @@
+class: card:class:MasterTag
+title: Item
+properties:
+  - label: itemType
+    # type: Select: Item Type (enum)
+  - label: rarity
+    # type: Select: Rarity (enum)

@@ -1,0 +1,7 @@
+class: card:class:Tag
+title: Merchant
+properties:
+  - label: dealStolenItems
+    type: TypeBoolean
+  - label: inventory
+    # type: Multi-Select: Reference: Item

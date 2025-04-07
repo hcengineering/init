@@ -1,0 +1,9 @@
+class: card:class:MasterTag
+title: Game Asset
+properties:
+  - label: assetName
+    type: TypeString
+  - label: description
+    type: TypeString
+  - label: fileFormats
+    # type: Multi-Select: Select

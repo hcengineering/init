@@ -1,0 +1,9 @@
+class: card:class:MasterTag
+title: Audio Asset
+properties:
+  - label: purpose
+    # type: Select: Audio Asset Purpose (enum)
+  - label: duration
+    type: TypeString
+  - label: looping
+    type: TypeBoolean

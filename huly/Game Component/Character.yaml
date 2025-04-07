@@ -1,0 +1,13 @@
+class: card:class:MasterTag
+title: Character
+properties:
+  - label: speed
+    type: TypeNumber
+  - label: jumpHeight
+    type: TypeNumber
+  - label: movementModes
+    # type: Multi-Select: Select
+  - label: maxHealth
+    type: TypeNumber
+  - label: stamina
+    type: TypeNumber

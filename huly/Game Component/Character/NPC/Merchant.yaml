@@ -4,4 +4,5 @@ properties:
   - label: dealStolenItems
     type: TypeBoolean
   - label: inventory
-    # type: Multi-Select: Reference: Item
+    refTo: '../../Item.yaml'
+    isArray: true

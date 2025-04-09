@@ -5,8 +5,9 @@ properties:
     type: TypeNumber
   - label: jumpHeight
     type: TypeNumber
-  - label: movementModes
-    # type: Multi-Select: Select
+  - label: movementMode
+    enumOf: './Movement Mode.yaml'
+    isArray: true
   - label: maxHealth
     type: TypeNumber
   - label: stamina

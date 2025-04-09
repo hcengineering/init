@@ -2,11 +2,15 @@
 title: Epic Adventure Soundtrack
 assetName: Epic Adventure Soundtrack
 description: Sweeping orchestral soundtrack
-# fileFormats: MP3
+fileFormat: PNG
 purpose: '🎼 Soundtrack'
 duration: 22s
 looping: true
-attachments: ../../files/epic-adventure-soundtrack.mp3
+blobs: 
+  - ../../files/epic-adventure-soundtrack.mp3
+audioFor:
+  - ../../Game Component/Environment/Ruins of Aetheron.md
+  - ../../Game Component/Environment/Ruins of Aetheron/Chamber of Echoes.md
 ---
 
 Plays during opening scene.

@@ -2,6 +2,6 @@ class: card:class:MasterTag
 title: Item
 properties:
   - label: itemType
-    # type: Select: Item Type (enum)
+    enumOf: './Item Type.yaml'
   - label: rarity
-    # type: Select: Rarity (enum)
+    enumOf: './Rarity.yaml'

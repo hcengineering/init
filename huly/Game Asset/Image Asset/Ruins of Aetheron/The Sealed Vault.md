@@ -2,9 +2,11 @@
 title: The Sealed Vault
 assetName: The Sealed Vault
 description: Puzzle quest setting
-# fileFormats: PNG
+fileFormat: PNG
 dimensions: 1536 x 1024
 transparency: false
-attachments:
+blobs:
   - ../../../files/sealed-vault.png
+depicts:
+  - ../../../Game Component/Environment/Ruins of Aetheron/The Sealed Vault.md
 ---

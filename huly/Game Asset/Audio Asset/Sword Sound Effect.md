@@ -2,11 +2,14 @@
 title: Sword Sound Effect
 assetName: Sword Sound Effect
 description: Sound when using the sword weapon
-# fileFormats: MP3
+fileFormat: MP3
 purpose: '🔊 Sound effect'
 duration: 3s
 looping: false
-attachments: ../../files/sword-sound-effect.mp3
+blobs: 
+  - ../../files/sword-sound-effect.mp3
+audioFor:
+  - ../../Game Component/Item/Sword weapon.md
 ---
 
 Sound plays when sword weapon is used.

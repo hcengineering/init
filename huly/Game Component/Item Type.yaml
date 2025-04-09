@@ -1,0 +1,6 @@
+class: core:class:Enum
+title: Item type
+values:
+  - '⚔️ Weapon'
+  - '🍎 Consumable'
+  - '🔑 Key item'

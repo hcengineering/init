@@ -1,4 +1,4 @@
-class: card:class:MasterTag
+extends: card:class:Document
 title: Game Narrative
 properties:
   - label: title

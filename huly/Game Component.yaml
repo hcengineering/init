@@ -1,7 +1,7 @@
 class: card:class:MasterTag
 title: Game Component
 properties:
-  - label: name
+  - label: Name
     type: TypeString
-  - label: description
+  - label: Description
     type: TypeString

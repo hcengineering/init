@@ -1,8 +1,8 @@
 class: card:class:Tag
 title: Merchant
 properties:
-  - label: dealStolenItems
+  - label: Deal stolen items
     type: TypeBoolean
-  - label: inventory
+  - label: Inventory
     refTo: '../../Item.yaml'
     isArray: true

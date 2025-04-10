@@ -1,14 +1,14 @@
 ---
 title: Sword Sound Effect
-assetName: Sword Sound Effect
-description: Sound when using the sword weapon
-fileFormat: MP3
-purpose: '🔊 Sound effect'
-duration: 3s
-looping: false
+Asset name: Sword Sound Effect
+Description: Sound when using the sword weapon
+File format: MP3
+Audio purpose: '🔊 Sound effect'
+Duration: 3s
+Looping: false
 blobs: 
   - ../../../files/sword-sound-effect.mp3
-audioFor:
+Audio for:
   - ../../../Game Component/Item/Sword weapon.md
 ---
 

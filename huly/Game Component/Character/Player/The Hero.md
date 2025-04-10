@@ -1,18 +1,18 @@
 ---
 title: The Hero
-name: The Hero
-description: A chosen warrior destined to wield the power of the Ancients and restore balance to Eldoria.
-speed: 2.5
-jumpHeight:  3
-movementMode: ['🏃 Ground', '🌊 Water']
-maxHealth: 100
-stamina: 90
-includedIn:
+Name: The Hero
+Description: A chosen warrior destined to wield the power of the Ancients and restore balance to Eldoria.
+Speed: 2.5
+Jump height:  3
+Movement mode: ['🏃 Ground', '🌊 Water']
+Max health: 100
+Stamina: 90
+Included in:
   - ../../../Game Narrative/The Hero's Journey.md
   - ../../../Game Narrative/The Legend of the Celestial Swords.md
-possesses:
+Possesses:
   - ../../Item/Sword weapon.md
-existsIn:
+Exists in:
   - ../../Environment/Ruins of Aetheron.md
   - ../../Environment/Ruins of Aetheron/The Sealed Vault.md
   - ../../Environment/Ruins of Aetheron/Chamber of Echoes.md

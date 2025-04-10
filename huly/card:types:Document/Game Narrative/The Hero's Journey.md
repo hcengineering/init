@@ -1,12 +1,12 @@
 ---
 title: "🌍 Main Story Arc - The Hero's Journey"
-label: The Hero's Journey
-description: Central game narrative
-includesSettings:
+Title: The Hero's Journey
+Description: Central game narrative
+Includes settings:
   - ../../Game Component/Environment/Ruins of Aetheron.md
   - ../../Game Component/Environment/Ruins of Aetheron/The Sealed Vault.md
   - ../../Game Component/Environment/Ruins of Aetheron/Chamber of Echoes.md
-features:
+Features:
   - ../../Game Component/Character/Player/The Hero.md
   - ../../Game Component/Character/NPC/Thalen Mossroot.md
   - ../../Game Component/Character/NPC/Princess Elara.md

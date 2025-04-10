@@ -1,12 +1,12 @@
 ---
 title: The Chamber of Echoes
-assetName: The Chamber of Echoes
-description: Side quest setting
-fileFormat: PNG
-dimensions: 1536 x 1024
-transparency: false
+Asset name: The Chamber of Echoes
+Description: Side quest setting
+File format: PNG
+Dimensions: 1536 x 1024
+Transparency: false
 blobs:
   - ../../../../files/chamber-of-echoes.png
-depicts:
+Depicts:
   - ../../../../Game Component/Environment/Ruins of Aetheron/Chamber of Echoes.md
 ---

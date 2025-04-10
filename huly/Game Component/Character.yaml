@@ -1,14 +1,14 @@
 class: card:class:MasterTag
 title: Character
 properties:
-  - label: speed
+  - label: Speed
     type: TypeNumber
-  - label: jumpHeight
+  - label: Jump height
     type: TypeNumber
-  - label: movementMode
+  - label: Movement mode
     enumOf: './Movement Mode.yaml'
     isArray: true
-  - label: maxHealth
+  - label: Max health
     type: TypeNumber
-  - label: stamina
+  - label: Stamina
     type: TypeNumber

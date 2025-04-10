@@ -1,14 +1,14 @@
 ---
 title: Sword weapon
-name: Sword weapon
-description: Hero's default defense weapon
-itemType: '⚔️ Weapon'
-rarity: '⚪ Common'
-depictedBy:
+Name: Sword weapon
+Description: Hero's default defense weapon
+Item type: '⚔️ Weapon'
+Rarity: '⚪ Common'
+Depicted by:
   - ../../Game Asset/Image Asset/Sword concepts.md
-usesAudio:
+Uses audio:
   - ../../Game Asset/Audio Asset/Sword Sound Effect.md
-possessedBy:
+Possessed by:
   - ../../Character/Player/Hero.md
 ---
 

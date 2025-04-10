@@ -1,9 +1,9 @@
 class: card:class:MasterTag
 title: Audio Asset
 properties:
-  - label: purpose
+  - label: Audio purpose
     enumOf: './Audio Purpose.yaml'
-  - label: duration
+  - label: Duration
     type: TypeString
-  - label: looping
+  - label: Looping
     type: TypeBoolean

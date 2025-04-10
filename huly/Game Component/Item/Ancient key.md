@@ -1,10 +1,10 @@
 ---
 title: Ancient key
-name: Ancient key
-description: 'A weathered bronze key inscribed with faded runes, holding the secrets of a lost civilization.'
-itemType: '🔑 Key item'
-rarity: '🟠 Legendary'
-possessedBy:
+Name: Ancient key
+Description: 'A weathered bronze key inscribed with faded runes, holding the secrets of a lost civilization.'
+Item type: '🔑 Key item'
+Tarity: '🟠 Legendary'
+Possessed by:
   - ../../Character/NPC/Thalen Mossroot.md
 ---
 

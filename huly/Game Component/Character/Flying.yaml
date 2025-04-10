@@ -1,5 +1,5 @@
 class: card:class:Tag
 title: Flying
 properties:
-  - label: flyingSpeed
+  - label: Flying speed
     type: TypeNumber

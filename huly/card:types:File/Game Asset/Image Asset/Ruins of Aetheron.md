@@ -1,12 +1,12 @@
 ---
 title: Ruins of Aetheron
-assetName: Ruins of Aetheron
-description: Main story setting
-fileFormat: PNG
-dimensions: 1024 x 1024
-transparency: false
+Asset name: Ruins of Aetheron
+Description: Main story setting
+File format: PNG
+Dimensions: 1024 x 1024
+Transparency: false
 blobs:
   - ../../../files/ruins-of-aetheron.png
-depicts:
+Depicts:
   - ../../../Game Component/Environment/Ruins of Aetheron.md
 ---

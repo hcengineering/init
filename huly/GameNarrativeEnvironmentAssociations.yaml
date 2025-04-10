@@ -1,6 +1,6 @@
 class: core:class:Association
 typeA: './card:types:Document/Game Narrative.yaml'
 typeB: './Game Component/Environment.yaml'
-nameA: settingFor
-nameB: includesSettings
+nameA: Setting for
+nameB: Includes settings
 type: 'N:N'

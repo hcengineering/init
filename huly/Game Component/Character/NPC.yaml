@@ -1,5 +1,5 @@
 class: card:class:MasterTag
 title: NPC
 properties:
-  - label: alignment
+  - label: Alignment
     enumOf: './Alignment.yaml'

@@ -1,10 +1,10 @@
 ---
 title: Elixir of Vitality
-name: Elixir of Vitality
-description: 'A rare potion brewed from enchanted herbs, restoring vitality and endurance.'
-itemType: '🍎 Consumable'
-rarity: '🔵 Rare'
-possessedBy:
+Name: Elixir of Vitality
+Description: 'A rare potion brewed from enchanted herbs, restoring vitality and endurance.'
+Item type: '🍎 Consumable'
+Rarity: '🔵 Rare'
+Possessed by:
   - ../../Character/NPC/Thalen Mossroot.md
   - ../../Character/NPC/Princess Elara.md
 ---

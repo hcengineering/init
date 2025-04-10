@@ -3,23 +3,23 @@ title: Shadow Cultist
 tags:
   - ../Flying.yaml
   - ../Wizard.yaml
-name: Shadow Cultist
-description: 'A fanatical follower of the Shadow Cult, wielding dark magic to weaken their foes.'
-speed: 1.5
-jumpHeight: 1
-movementMode: ['🏃 Ground', '🦅 Air']
-maxHealth: 100
-stamina: 95
-alignment: Friendly
-flyingSpeed: 3
-mana: 100
-includedIn:
+Name: Shadow Cultist
+Description: 'A fanatical follower of the Shadow Cult, wielding dark magic to weaken their foes.'
+Speed: 1.5
+Jump height: 1
+Movement mode: ['🏃 Ground', '🦅 Air']
+Max health: 100
+Stamina: 95
+Alignment: Friendly
+Flying speed: 3
+Mana: 100
+Included in:
   - ../../../Game Narrative/The Hero's Journey.md
   - ../../../Game Narrative/The Legend of the Celestial Swords.md
-possesses:
+Possesses:
   - ../../Item/Ancient key.md
   - ../../Item/Bow weapon.md
-existsIn:
+Exists in:
   - ../../Environment/Ruins of Aetheron/The Sealed Vault.md
 ---
 

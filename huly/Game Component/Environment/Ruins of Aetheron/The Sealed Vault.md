@@ -1,13 +1,13 @@
 ---
 title: The Sealed Vault
-name: The Sealed Vault
-description: Heavily guarded structure
-depictedBy:
+Name: The Sealed Vault
+Description: Heavily guarded structure
+Depicted by:
   - ../../../Game Asset/Image Asset/Ruins of Aetheron/The Sealed Vault.md
-settingFor:
+Setting for:
   - ../../../Game Narrative/The Hero's Journey.md
   - ../../../Game Narrative/The Legend of the Celestial Swords.md
-inhabitedBy:
+Inhabited by:
   - ../../../Character/Player/The Hero.md
   - ../../../Character/Enemy/Shadow Cultist.md
 ---

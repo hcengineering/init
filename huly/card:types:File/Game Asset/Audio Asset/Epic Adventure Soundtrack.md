@@ -1,14 +1,14 @@
 ---
 title: Epic Adventure Soundtrack
-assetName: Epic Adventure Soundtrack
-description: Sweeping orchestral soundtrack
-fileFormat: PNG
-purpose: '🎼 Soundtrack'
-duration: 22s
-looping: true
+Asset name: Epic Adventure Soundtrack
+Description: Sweeping orchestral soundtrack
+File format: PNG
+Purpose: '🎼 Soundtrack'
+Duration: 22s
+Looping: true
 blobs: 
   - ../../../files/epic-adventure-soundtrack.mp3
-audioFor:
+Audio for:
   - ../../../Game Component/Environment/Ruins of Aetheron.md
   - ../../../Game Component/Environment/Ruins of Aetheron/Chamber of Echoes.md
 ---

@@ -1,11 +1,11 @@
 ---
 title: ⚔️ The Legend of the Celestial Swords
-label: The Legend of the Celestial Swords
-description: 'Legend guiding sword-related quests'
-includesSettings:
+Title: The Legend of the Celestial Swords
+Description: 'Legend guiding sword-related quests'
+Includes settings:
   - ../../Game Component/Environment/Ruins of Aetheron.md
   - ../../Game Component/Environment/Ruins of Aetheron/The Sealed Vault.md
-features:
+Features:
   - ../../Game Component/Character/Player/The Hero.md
   - ../../Game Component/Character/Enemy/Shadow Cultist.md
 ---

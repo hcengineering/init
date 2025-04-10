@@ -1,6 +1,6 @@
 class: core:class:Association
 typeA: './Audio Asset.yaml'
 typeB: '../../Game Component.yaml'
-nameA: usesAudio
-nameB: audioFor
+nameA: Uses audio
+nameB: Audio for
 type: 'N:N'

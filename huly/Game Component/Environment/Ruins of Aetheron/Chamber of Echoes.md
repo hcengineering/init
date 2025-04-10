@@ -1,14 +1,14 @@
 ---
 title: Chamber of Echoes
-name: Chamber of Echoes
-description: 'Ancient, mystical location'
-depictedBy:
+Name: Chamber of Echoes
+Description: 'Ancient, mystical location'
+Depicted by:
   - ../../../Game Asset/Image Asset/Ruins of Aetheron/The Chamber of Echoes.md
-usesAudio:
+Uses audio:
   - ../../../Game Asset/Audio Asset/Epic Adventure Soundtrack.md
-settingFor:
+Setting for:
   - ../../../Game Narrative/The Hero's Journey.md
-inhabitedBy:
+Inhabited by:
   - ../../../Character/Player/The Hero.md
   - ../../../Character/NPC/Thalen Mossroot.md
 ---

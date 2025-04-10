@@ -1,18 +1,18 @@
 ---
 title: Princess Elara
-name: Princess Elara
-description: Drives the main narrative
-speed: 2
-jumpHeight: 0.5
-movementMode: '🏃 Ground'
-maxHealth: 100
-stamina: 80
-alignment: Friendly
-includedIn:
+Name: Princess Elara
+Description: Drives the main narrative
+Speed: 2
+Jump height: 0.5
+Movement mode: '🏃 Ground'
+Max health: 100
+Stamina: 80
+Alignment: Friendly
+Included in:
   - ../../../Game Narrative/The Hero's Journey.md
-possesses:
+Possesses:
   - ../../Item/Elixir of Vitality.md
-existsIn:
+Exists in:
   - ../../Environment/Ruins of Aetheron.md
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Bow weapon
-name: Bow weapon
-description: A ranged weapon for shooting arrows.
-itemType: '⚔️ Weapon'
-rarity: '🔵 Rare'
-possessedBy:
+Name: Bow weapon
+Description: A ranged weapon for shooting arrows.
+Item type: '⚔️ Weapon'
+Tarity: '🔵 Rare'
+Possessed by:
   - ../../Character/Enemy/Shadow Cultist.md
 ---
 

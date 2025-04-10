@@ -1,15 +1,15 @@
 ---
 title: Ruins of Aetheron
-name: Ruins of Aetheron
-description: Remnants of an ancient city
-depictedBy:
+Name: Ruins of Aetheron
+Description: Remnants of an ancient city
+Depicted by:
   - ../../../Game Asset/Image Asset/Ruins of Aetheron.md
-usesAudio:
+Uses audio:
   - ../../../Game Asset/Audio Asset/Epic Adventure Soundtrack.md
-settingFor:
+Setting for:
   - ../../../Game Narrative/The Hero's Journey.md
   - ../../../Game Narrative/The Legend of the Celestial Swords.md
-inhabitedBy:
+Inhabited by:
   - ../../Character/Player/The Hero.md
   - ../../Character/NPC/Princess Elara.md
 ---

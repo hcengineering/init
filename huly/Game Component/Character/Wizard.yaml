@@ -1,5 +1,5 @@
 class: card:class:Tag
 title: Wizard
 properties:
-  - label: mana
+  - label: Mana
     type: TypeNumber

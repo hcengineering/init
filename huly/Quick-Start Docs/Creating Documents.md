@@ -48,4 +48,4 @@ Create an Action Item by typing `[]` then `space` on a new line. Alternatively, 
 
 # **Real-time collaboration**
 
-Team members can collaborate on documents at the same time! Multiple people can edit and add to documents simultaneously. You can also have discussions at the bottom of the page, or highlight text anywhere to add inline comments. Check out our [video](https://www.youtube.com/watch?v=cspdJ5TjFNQ) to learn more about collaborative editing in Huly documents!
+Team members can collaborate on documents at the same time! Multiple people can edit and add to documents simultaneously. You can also have discussions at the bottom of the page, or highlight text anywhere to add inline comments. Check out our [video](https://www.youtube.com/watch?v=6mz0OmGPq3Q) to learn more about Huly documents!

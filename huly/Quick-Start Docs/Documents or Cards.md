@@ -3,7 +3,7 @@ class: document:class:Document
 title: Documents or Cards?
 ---
 
-If you’ve already completed our [onboarding tasks](../Welcome%20to%20Huly/1.Welcome.md)), you’ve probably had a chance to explore **Cards**.
+If you’ve already completed our [onboarding tasks](../Welcome%20to%20Huly/1.Welcome.md), you’ve probably had a chance to explore **Cards**.
 
 Cards are a flexible framework for structuring information efficiently. You can create databases based on any kind of information you need to store. You can use Cards to completely replace Documents in your workspace — or use them both simultaneously for different purposes.
 

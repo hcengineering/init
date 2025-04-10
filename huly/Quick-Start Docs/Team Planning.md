@@ -21,9 +21,9 @@ You can access your Team Planner any time by clicking the sun icon in the left s
 * **Streamlined Communication:** The Team Planner reduces the need for constant check-ins and meetings, as team members can directly see each other’s planned and completed tasks, fostering a more efficient workflow.
 
 ***Team Planner - Agenda view***
-![](../files/team-agenda.jpeg)
+<img src="../files/team-agenda.jpeg" width="800"/>
 
 ***Team Planner - Calendar view***
-![](../files/team-calendar.jpeg)
+<img src="../files/team-calendar.jpeg" width="800"/>
 
 As you continue to use Action Items in Huly, you’ll discover how they seamlessly integrate into both your personal and team planning processes, elevating the way you manage and execute tasks. The **Team Planner** is just one of the many ways Huly empowers you and your team to stay organized, synchronized, and productive.

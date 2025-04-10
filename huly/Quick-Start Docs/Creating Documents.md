@@ -8,7 +8,8 @@ Documents are organized into teamspaces, which can be used to model your team’
 
 To create a teamspace, click the `+` that appears when hovering over the word “Teamspaces” in the sidebar, or by clicking the dropdown arrow next to the `+ Create a Document` button and selecting `Create teamspace`.
 
-![](../files/create-teamspace.gif)
+<img src="../files/create-teamspace.gif" width="800"/>
+
 
 # **Creating a document**
 
@@ -18,7 +19,7 @@ Click the `+ Create a document` button at the top of the sidebar. This opens a d
 
 Alternatively, hover over the a teamspace name or any other document and click the `+` button that appears. The new document will automatically be nested within the teamspace or document you selected.
 
-![](../files/create-document.gif)
+<img src="../files/create-document.gif" width="800"/>
 
 # **Formatting document content**
 

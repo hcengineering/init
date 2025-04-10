@@ -3,7 +3,7 @@ title: Epic Adventure Soundtrack
 Asset name: Epic Adventure Soundtrack
 Description: Sweeping orchestral soundtrack
 File format: PNG
-Purpose: '🎼 Soundtrack'
+Audio purpose: '🎼 Soundtrack'
 Duration: 22s
 Looping: true
 blobs: 

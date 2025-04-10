@@ -1,6 +1,6 @@
 class: core:class:Association
-typeA: './Game Narrative.yaml'
-typeB: '../../Game Component/Character.yaml'
+typeA: './card:types:Document/Game Narrative.yaml'
+typeB: './Game Component/Character.yaml'
 nameA: features
 nameB: includedIn
 type: 'N:N'

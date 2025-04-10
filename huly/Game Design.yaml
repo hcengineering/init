@@ -1,5 +1,4 @@
 class: tracker:class:Project
-id: tracker:project:DefaultProject
 title: Game Design (Example)
 identifier: GAME
 emoji: 🌟

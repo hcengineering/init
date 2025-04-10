@@ -4,7 +4,7 @@ name: The Hero
 description: A chosen warrior destined to wield the power of the Ancients and restore balance to Eldoria.
 speed: 2.5
 jumpHeight:  3
-movementMode: '🏃 Ground', '🌊 Water'
+movementMode: ['🏃 Ground', '🌊 Water']
 maxHealth: 100
 stamina: 90
 includedIn:

@@ -7,9 +7,9 @@ purpose: '🔊 Sound effect'
 duration: 3s
 looping: false
 blobs: 
-  - ../../files/sword-sound-effect.mp3
+  - ../../../files/sword-sound-effect.mp3
 audioFor:
-  - ../../Game Component/Item/Sword weapon.md
+  - ../../../Game Component/Item/Sword weapon.md
 ---
 
 Sound plays when sword weapon is used.

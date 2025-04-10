@@ -7,7 +7,7 @@ name: Shadow Cultist
 description: 'A fanatical follower of the Shadow Cult, wielding dark magic to weaken their foes.'
 speed: 1.5
 jumpHeight: 1
-movementMode: '🏃 Ground', '🦅 Air'
+movementMode: ['🏃 Ground', '🦅 Air']
 maxHealth: 100
 stamina: 95
 alignment: Friendly

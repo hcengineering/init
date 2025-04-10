@@ -1,7 +1,7 @@
-extends: card:class:Document
+class: card:class:MasterTag
 title: Game Narrative
 properties:
-  - label: title
+  - label: label
     type: TypeString
   - label: description
     type: TypeString

@@ -1,4 +1,4 @@
-extends: card:class:File
+class: card:class:MasterTag
 title: Game Asset
 properties:
   - label: assetName

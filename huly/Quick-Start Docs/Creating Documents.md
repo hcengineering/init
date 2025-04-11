@@ -8,7 +8,8 @@ Documents are organized into teamspaces, which can be used to model your team’
 
 To create a teamspace, click the `+` that appears when hovering over the word “Teamspaces” in the sidebar, or by clicking the dropdown arrow next to the `+ Create a Document` button and selecting `Create teamspace`.
 
-![](../files/create-teamspace.gif)
+<img src="../files/create-teamspace.gif" width="800"/>
+
 
 # **Creating a document**
 
@@ -18,7 +19,7 @@ Click the `+ Create a document` button at the top of the sidebar. This opens a d
 
 Alternatively, hover over the a teamspace name or any other document and click the `+` button that appears. The new document will automatically be nested within the teamspace or document you selected.
 
-![](../files/create-document.gif)
+<img src="../files/create-document.gif" width="800"/>
 
 # **Formatting document content**
 
@@ -48,4 +49,4 @@ Create an Action Item by typing `[]` then `space` on a new line. Alternatively, 
 
 # **Real-time collaboration**
 
-Team members can collaborate on documents at the same time! Multiple people can edit and add to documents simultaneously. You can also have discussions at the bottom of the page, or highlight text anywhere to add inline comments. Check out our [video](https://www.youtube.com/watch?v=cspdJ5TjFNQ) to learn more about collaborative editing in Huly documents!
+Team members can collaborate on documents at the same time! Multiple people can edit and add to documents simultaneously. You can also have discussions at the bottom of the page, or highlight text anywhere to add inline comments. Check out our [video](https://www.youtube.com/watch?v=6mz0OmGPq3Q) to learn more about Huly documents!

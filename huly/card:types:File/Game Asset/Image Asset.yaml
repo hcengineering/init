@@ -1,0 +1,7 @@
+class: card:class:MasterTag
+title: Image Asset
+properties:
+  - label: Dimensions
+    type: TypeString
+  - label: Transparency
+    type: TypeBoolean

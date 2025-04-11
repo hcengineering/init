@@ -1,0 +1,7 @@
+class: card:class:MasterTag
+title: Item
+properties:
+  - label: Item type
+    enumOf: './Item Type.yaml'
+  - label: Rarity
+    enumOf: './Rarity.yaml'

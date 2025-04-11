@@ -6,7 +6,7 @@ Name: Thalen Mossroot
 Description: A traveling herbalist who trades rare plants and potions across the forest settlements.
 Speed: 1.4
 Jump height: 0.3
-Movement mode: '🏃 Ground'
+Movement mode: ['🏃 Ground']
 Max health: 60
 Stamina: 50
 Alignment: Friendly

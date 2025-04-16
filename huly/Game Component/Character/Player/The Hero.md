@@ -8,8 +8,8 @@ Movement mode: ['🏃 Ground', '🌊 Water']
 Max health: 100
 Stamina: 90
 Included in:
-  - ../../../Game Narrative/The Hero's Journey.md
-  - ../../../Game Narrative/The Legend of the Celestial Swords.md
+  - ../../../card:types:Document/Game Narrative/The Hero's Journey.md
+  - ../../../card:types:Document/Game Narrative/The Legend of the Celestial Swords.md
 Possesses:
   - ../../Item/Sword weapon.md
 Exists in:

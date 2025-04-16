@@ -10,12 +10,11 @@ Jump height: 1
 Movement mode: ['🏃 Ground', '🦅 Air']
 Max health: 100
 Stamina: 95
-Alignment: Friendly
 Flying speed: 3
 Mana: 100
 Included in:
-  - ../../../Game Narrative/The Hero's Journey.md
-  - ../../../Game Narrative/The Legend of the Celestial Swords.md
+  - ../../../card:types:Document/Game Narrative/The Hero's Journey.md
+  - ../../../card:types:Document/Game Narrative/The Legend of the Celestial Swords.md
 Possesses:
   - ../../Item/Ancient key.md
   - ../../Item/Bow weapon.md

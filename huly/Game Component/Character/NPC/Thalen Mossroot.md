@@ -15,7 +15,7 @@ Inventory:
   - ../../Item/Ancient key.md
   - ../../Item/Elixir of Vitality.md
 Included in:
-  - ../../../Game Narrative/The Hero's Journey.md
+  - ../../../card:types:Document/Game Narrative/The Hero's Journey.md
 Possesses:
   - ../../Item/Ancient key.md
   - ../../Item/Elixir of Vitality.md

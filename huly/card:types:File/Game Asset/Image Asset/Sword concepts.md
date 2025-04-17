@@ -2,7 +2,7 @@
 title: Sword concepts
 Asset name: Sword concepts
 Description: Concept sketches for sword weapon
-File format: JPEG
+File format: JPG
 Dimensions: 1024 x 1024
 Transparency: false
 blobs:

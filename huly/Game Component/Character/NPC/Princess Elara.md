@@ -4,12 +4,12 @@ Name: Princess Elara
 Description: Drives the main narrative
 Speed: 2
 Jump height: 0.5
-Movement mode: '🏃 Ground'
+Movement mode: ['🏃 Ground']
 Max health: 100
 Stamina: 80
 Alignment: Friendly
 Included in:
-  - ../../../Game Narrative/The Hero's Journey.md
+  - ../../../card:types:Document/Game Narrative/The Hero's Journey.md
 Possesses:
   - ../../Item/Elixir of Vitality.md
 Exists in:

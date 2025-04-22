@@ -144,6 +144,12 @@
         role: 'OWNER'
         space: 'core:space:Model'
         person: ${userPerson}
+    - type: 'import'
+      path: './tracex'
+    - type: 'bulkUpdate'
+      _class: 'documents:mixin:DocumentTemplate'
+      data:
+        state: 'effective'
 - name: 'bold'
   steps:
     - type: 'update'

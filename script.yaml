@@ -75,6 +75,7 @@
     - type: 'create'
       _class: 'contact:class:SocialIdentity'
       data:
+        _id: ${creatorSocialId@global}
         space: 'contact:space:Contacts'
         collection: 'socialIds'
         attachedTo: ${creatorPerson}

@@ -2,12 +2,6 @@
 title: ⚔️ The Legend of the Celestial Swords
 Title: The Legend of the Celestial Swords
 Description: 'Legend guiding sword-related quests'
-Includes settings:
-  - ../../Game Component/Environment/Ruins of Aetheron.md
-  - ../../Game Component/Environment/Ruins of Aetheron/The Sealed Vault.md
-Features:
-  - ../../Game Component/Character/Player/The Hero.md
-  - ../../Game Component/Character/Enemy/Shadow Cultist.md
 ---
 
 Long before the kingdoms of Eldoria rose, the world was shaped by the power of the Celestial Swords—five divine blades forged by the gods themselves. ⚔️ Each sword held dominion over an elemental force, granting unimaginable power to its wielder. But with power came ambition, and war soon followed. The swords were lost to time, their locations hidden in myth, waiting for those deemed worthy to reclaim them.

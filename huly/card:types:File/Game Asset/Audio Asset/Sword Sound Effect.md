@@ -8,8 +8,6 @@ Duration: 3s
 Looping: false
 blobs: 
   - ../../../files/sword-sound-effect.mp3
-Audio for:
-  - ../../../Game Component/Item/Sword weapon.md
 ---
 
 Sound plays when sword weapon is used.

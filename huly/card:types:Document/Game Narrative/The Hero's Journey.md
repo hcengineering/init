@@ -2,15 +2,6 @@
 title: "🌍 Main Story Arc - The Hero's Journey"
 Title: The Hero's Journey
 Description: Central game narrative
-Includes settings:
-  - ../../Game Component/Environment/Ruins of Aetheron.md
-  - ../../Game Component/Environment/Ruins of Aetheron/The Sealed Vault.md
-  - ../../Game Component/Environment/Ruins of Aetheron/Chamber of Echoes.md
-Features:
-  - ../../Game Component/Character/Player/The Hero.md
-  - ../../Game Component/Character/NPC/Thalen Mossroot.md
-  - ../../Game Component/Character/NPC/Princess Elara.md
-  - ../../Game Component/Character/Enemy/Shadow Cultist.md
 ---
 
 The central narrative follows a young warrior chosen to restore balance in the war-torn land of Eldoria. 

@@ -9,6 +9,4 @@ blobs:
   - ../../../files/sword-1.jpeg
   - ../../../files/sword-2.jpeg
   - ../../../files/sword-3.jpeg
-Depicts:
-  - ../../../Game Component/Item/Sword weapon.md
 ---

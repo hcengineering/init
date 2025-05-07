@@ -4,6 +4,6 @@ description: Quick guides to learn how to get the most from Huly!
 emoji: 📝
 autoJoin: true
 members: 
-  - newuser@huly.io
+  - ${creatorName@global}
 owners: 
-  - newuser@huly.io
+  - ${creatorName@global}

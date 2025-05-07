@@ -5,6 +5,6 @@ identifier: HULY
 emoji: 🌟
 autoJoin: true
 members: 
-  - newuser@huly.io
+  - ${creatorName@global}
 owners: 
-  - newuser@huly.io
+  - ${creatorName@global}

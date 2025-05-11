@@ -85,7 +85,7 @@
         value: ${creatorSocialValue@global}
         confirmed: true
     - type: 'import'
-      path: './huly'
+      path: './huly_v07'
 - name: 'tracex-init'
   default: false
   steps:

@@ -1,0 +1,6 @@
+class: core:class:Association
+typeA: './Character.yaml'
+typeB: './Item.yaml'
+nameA: Possessed by
+nameB: Possesses
+type: 'N:N'

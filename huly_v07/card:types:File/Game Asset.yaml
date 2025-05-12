@@ -1,0 +1,9 @@
+class: card:class:MasterTag
+title: Game Asset
+properties:
+  - label: Asset name
+    type: TypeString
+  - label: Description
+    type: TypeString
+  - label: File format
+    enumOf: './File Format.yaml'

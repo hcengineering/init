@@ -1,0 +1,5 @@
+class: core:class:Enum
+title: Audio purpose
+values:
+  - '🎼 Soundtrack'
+  - '🔉 Sound effect'

@@ -1,0 +1,6 @@
+class: core:class:Association
+typeA: './Character.yaml'
+typeB: './Environment.yaml'
+nameA: Inhabited by
+nameB: Exists in
+type: 'N:N'

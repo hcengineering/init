@@ -1,0 +1,9 @@
+class: tracker:class:Project
+title: Game Design (Example)
+identifier: GAME
+emoji: 🌟
+autoJoin: true
+members: 
+  - ${creatorName@global}
+owners: 
+  - ${creatorName@global}

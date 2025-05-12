@@ -1,0 +1,7 @@
+class: card:class:MasterTag
+title: Game Narrative
+properties:
+  - label: Title
+    type: TypeString
+  - label: Description
+    type: TypeString

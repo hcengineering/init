@@ -1,0 +1,9 @@
+class: document:class:Teamspace
+title: Quick-Start Docs
+description: Quick guides to learn how to get the most from TraceX!
+emoji: 📝
+autoJoin: true
+members: 
+  - ${creatorName@global}
+owners: 
+  - ${creatorName@global}

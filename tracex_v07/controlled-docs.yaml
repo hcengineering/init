@@ -1,0 +1,11 @@
+class: documents:class:OrgSpace   # Required
+title: Onboarding            # Required
+private: false                    # Optional, default: false
+owners:                           # Optional, list of email addresses
+  - newuser@huly.io
+members:                          # Optional, list of email addresses
+  - newuser@huly.io
+description: Space for onboarding purpose              # Optional
+#qualified:                        # Optional, qualified user
+#manager:                          # Optional, QMS manager
+qara: newuser@huly.io             # Optional, QA/RA specialist

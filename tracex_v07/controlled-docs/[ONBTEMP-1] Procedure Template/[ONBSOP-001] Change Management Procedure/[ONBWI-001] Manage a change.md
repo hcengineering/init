@@ -2,13 +2,13 @@
 class: documents:class:ControlledDocument
 title: Manage a change
 template: '../../[ONBTEMP-1] Procedure Template.md'
-author: New User
-owner: New User
+author: ${creatorName@global}
+owner: ${creatorName@global}
 abstract: This Work Instruction provides detailed step-by-step guidance on how to manage a change according to the Change Management Procedure.
 reviewers:
-  - New User
+  - ${creatorName@global}
 approvers:
-  - New User
+  - ${creatorName@global}
 changeControl:
   description: Initial document creation
 ---

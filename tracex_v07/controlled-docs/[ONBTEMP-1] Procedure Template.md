@@ -3,8 +3,8 @@ class: documents:mixin:DocumentTemplate  # Required
 title: Procedure Template                # Required
 docPrefix: ONBSOP                           # Required, document code prefix
 category: QM                             # Required
-author: New User                        # Required
-owner: New User                          # Required
+author: ${creatorName@global}                        # Required
+owner: ${creatorName@global}                          # Required
 abstract: This is a dummy template for the sandbox workspace, allowing you to play around and easily explore TraceX’s capabilities.      # Optional
 #reviewers:                               # Optional
 #approvers:                               # Optional

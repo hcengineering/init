@@ -2,13 +2,13 @@
 class: documents:class:ControlledDocument         # Required
 title: Change Management Procedure                # Required
 template: '../[ONBTEMP-1] Procedure Template.md'        # Required, path to template
-author: New User
-owner: New User
+author: ${creatorName@global}
+owner: ${creatorName@global}
 abstract: This is a dummy procedure for the sandbox workspace, allowing you to play around and easily explore TraceX’s capabilities.      # Optional
 reviewers:                                        # Optional
-  - New User
+  - ${creatorName@global}
 approvers:                                        # Optional
-  - New User
+  - ${creatorName@global}
 #coAuthors:                                        # Optional 
 changeControl:                                    # Optional
   description: Initial document creation

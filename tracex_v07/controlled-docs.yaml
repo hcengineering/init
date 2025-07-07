@@ -3,6 +3,7 @@ title: Onboarding            # Required
 private: false                    # Optional, default: false
 owners:                           # Optional, list of email addresses
   - ${creatorName@global}
+autoJoin: true
 members:                          # Optional, list of email addresses
   - ${creatorName@global}
 description: Space for onboarding purpose              # Optional

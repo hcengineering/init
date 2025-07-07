@@ -15,10 +15,11 @@
         space: 'core:space:Model'
     - type: 'create'
       _class: 'contact:class:Person'
-      resultVariable: userPerson
-      data: 
+      resultVariable: creatorPerson
+      data:
         space: contact:space:Contacts
-        name: 'New User'
+        name: ${creatorName@global}
+        personUuid: ${creatorUuid@global}
         city: ''
         avatarType: 'color'
         avatarProps:
@@ -26,20 +27,24 @@
     - type: 'mixin'
       _class: 'contact:class:Person'
       mixin: 'contact:mixin:Employee'
-      data: 
+      data:
         space: contact:space:Contacts
-        _id: ${userPerson}
+        _id: ${creatorPerson}
         active: true
     - type: 'create'
-      _class: 'contact:class:PersonAccount'
-      resultVariable: userAccount
+      _class: 'contact:class:SocialIdentity'
       data:
-        email: 'newuser@huly.io'
-        role: 'OWNER'
-        space: 'core:space:Model'
-        person: ${userPerson}
+        _id: ${creatorSocialId@global}
+        space: 'contact:space:Contacts'
+        collection: 'socialIds'
+        attachedTo: ${creatorPerson}
+        attachedToClass: 'contact:class:Person'
+        key: ${creatorSocialKey@global}
+        type: ${creatorSocialType@global}
+        value: ${creatorSocialValue@global}
+        confirmed: true
     - type: 'import'
-      path: './huly'
+      path: './huly_v07'
 - name: 'staging-dev'
   steps:
     - type: 'update'
@@ -121,10 +126,11 @@
         space: 'core:space:Model'
     - type: 'create'
       _class: 'contact:class:Person'
-      resultVariable: userPerson
-      data: 
+      resultVariable: creatorPerson
+      data:
         space: contact:space:Contacts
-        name: 'New User'
+        name: ${creatorName@global}
+        personUuid: ${creatorUuid@global}
         city: ''
         avatarType: 'color'
         avatarProps:
@@ -132,20 +138,24 @@
     - type: 'mixin'
       _class: 'contact:class:Person'
       mixin: 'contact:mixin:Employee'
-      data: 
+      data:
         space: contact:space:Contacts
-        _id: ${userPerson}
+        _id: ${creatorPerson}
         active: true
     - type: 'create'
-      _class: 'contact:class:PersonAccount'
-      resultVariable: userAccount
+      _class: 'contact:class:SocialIdentity'
       data:
-        email: 'newuser@huly.io'
-        role: 'OWNER'
-        space: 'core:space:Model'
-        person: ${userPerson}
+        _id: ${creatorSocialId@global}
+        space: 'contact:space:Contacts'
+        collection: 'socialIds'
+        attachedTo: ${creatorPerson}
+        attachedToClass: 'contact:class:Person'
+        key: ${creatorSocialKey@global}
+        type: ${creatorSocialType@global}
+        value: ${creatorSocialValue@global}
+        confirmed: true
     - type: 'import'
-      path: './tracex'
+      path: './tracex_v07'
     - type: 'bulkUpdate'
       _class: 'documents:mixin:DocumentTemplate'
       data:
